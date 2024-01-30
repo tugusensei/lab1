@@ -1,8 +1,10 @@
 package lab1;
 
-public class yeay {
+public class as {
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("za");
+		System.out.print("as");
 	}
+
 }
